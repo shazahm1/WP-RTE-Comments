@@ -15,8 +15,8 @@ Replaces the default comment form with a rich text editor for logged in admins.
 This plugin has one purpose, replace the default comment field that just accepts plain text with a rich text editor similar to the one used when writing posts on admin accounts.
 
 Credit and inspiration for this plugin goes to:
-* (Renji)[http://sumtips.com/2012/12/add-rich-text-editor-wordpress-comment-form-without-plugin.html]
-* (Reuben)[http://www.revood.com/blog/adding-visual-editor-to-wordpress-comments-box-part-2/]
+* [Renji](http://sumtips.com/2012/12/add-rich-text-editor-wordpress-comment-form-without-plugin.html)
+* [Reuben](http://www.revood.com/blog/adding-visual-editor-to-wordpress-comments-box-part-2/)
 
 == Installation ==
 
