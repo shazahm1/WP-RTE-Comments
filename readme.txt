@@ -4,7 +4,7 @@ Donate link: http://connections-pro.com/
 Tags: comment, comments, tinymce, rte
 Requires at least: 3.3
 Tested up to: 3.5
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -42,6 +42,11 @@ None.
 
 
 == Changelog ==
+
+= 1.0.1 01/13/2013 =
+* BUG: Fix double slashing of js include.
+* OTHER: Include js in the header matching the default position of the comment-reply.js file.
+* OTHER: Update readme.txt to include info and resolution about a conflict with cforms II.
 
 = 1.0 01/13/2013 =
 * Initial Release.
