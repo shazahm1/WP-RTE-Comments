@@ -201,7 +201,7 @@ if ( ! class_exists( 'RTE_Comments' ) ) {
 		public static function enqueueScripts() {
 
 			// This js file is basicall a copy paste of the default comment-reply.js file with some code added to move TinyMCE in the DOM gracefully.
-			wp_enqueue_script( 'rte-comment-reply', RTEC_BASE_URL . 'js/rte-comment-reply.js', array( 'jquery'), RTEC_VERSION, TRUE );
+			wp_enqueue_script( 'rte-comment-reply', RTEC_BASE_URL . 'js/rte-comment-reply.js', array( 'jquery'), RTEC_VERSION );
 			
 		}
 
