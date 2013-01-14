@@ -32,6 +32,10 @@ One of three reasons or a mixture of any combination...
 * The theme is not using the [comments_form()](http://codex.wordpress.org/Function_Reference/comment_form) template tag.
 * There is a javascript error in theme or another plugin.
 
+= Are there any known plugin conflicts? =
+
+Yes, just one with cforms II. The conflict ccan be resolved by changing a couple settings in cforms. On the cforms Global Settings admin page under the WP Editor Button Support section uncheck both options and save the settings.
+
 == Screenshots ==
 
 None.
